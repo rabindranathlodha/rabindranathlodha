@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabindranathlodha&label=Profile%20views&color=0e75b6&style=flat" alt="rabindranathlodha" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Python, React, JAVA, C, C++**
+- 🌱 I’m currently learning **JS, Python, JAVA**
 
 - 💬 Ask me about **HTML, CSS, JS, Python, React, JAVA, C, C++**
 
